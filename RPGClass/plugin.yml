@@ -1,0 +1,17 @@
+name: RPGClass
+Version: 0.0.1
+description:
+
+
+
+
+
+main: com.skystep.RPGClass.RPGClass
+author: [SkyStep, Buildr45]
+
+commands:
+	rpgclass:
+		aliases: [class, rpgc]
+		usage: /<command>
+
+

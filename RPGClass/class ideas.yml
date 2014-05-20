@@ -1,0 +1,37 @@
+# classes vs. sub classes
+# cla
+
+#format
+#class:
+#   subclass:
+#       discription:
+#       abilities:
+#
+#
+#Going to have about 6-20 classses (*atleast realease the server #with 5 classes)
+#
+
+classes:
+
+	Marksman:
+
+	Magician:
+		Telepathic:
+		Psionic:
+
+
+	WeaponSwinger:
+
+	Rouge:
+		tracker:
+			abilitys:
+
+
+Abilities:
+	Track1: (PLAYER) when tracker has been in recent contact with they can get a compass that points towards the player being tracked.
+	Track2: (PLAYERS - ENTITES)
+	Track3: (PLAYERS)
+	Find: (CREATURE) use a creatures name to find the nearest wild version of that creature
+
+Magic:
+	Zenith: unleashing full potential
